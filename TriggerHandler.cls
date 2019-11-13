@@ -18,7 +18,6 @@ public class TriggerHandler {
         public virtual void beforeUpdate(Map<Id,SObject> mapOldSObjs, Map<Id,SObject> mapNewSObjs) { return; }
         public virtual void beforeDelete(Map<Id,SObject> mapOldSObjs) { return; }
 
-        public virtual void afterInsert(Map<Id,SObject> mapNewSObjs) { return; }
         public virtual void afterUpdate(Map<Id,SObject> mapOldSObjs, Map<Id,SObject> mapNewSObjs) { return; }
         public virtual void afterDelete(Map<Id,SObject> mapOldSObjs) { return; }
         public virtual void newMethod(Map<Id,SObject> mapNewSObjs) { return; }
