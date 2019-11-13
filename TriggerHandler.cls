@@ -1,5 +1,5 @@
 /**
- * @Author          Natarajan Periyasamy
+ * @Author          Sadham Git
  * @name            TriggerHandler
  * @description     Basic trigger handler to reduce boilerplace code.
  *                  TriggerHandler.TriggerHandlerBase is provided so only the needed functions requires implementing.
